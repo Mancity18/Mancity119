@@ -1,0 +1,24 @@
+# Mancity119
+/etherpad-win.exe
+/etherpad-win.zip
+node_modules
+/settings.json
+!settings.json.template
+APIKEY.txt
+SESSIONKEY.txt
+var/dirty.db
+*~
+*.patch
+npm-debug.log
+*.DS_Store
+*.crt
+*.key
+credentials.json
+out/
+.nyc_output
+.idea
+/package-lock.json
+/src/bin/abiword.exe
+/src/bin/convertSettings.json
+/src/bin/etherpad-1.deb
+/src/bin/node.exe
